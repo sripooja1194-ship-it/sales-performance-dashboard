@@ -1,2 +1,27 @@
-# sales-performance-dashboard
-Sales Performance Analysis Dashboard using Power BI and SQL
+# Sales Performance Dashboard
+
+## Project Overview
+This project analyzes sales data to monitor revenue, profit, and regional performance trends.
+
+## Tools Used
+- Power BI
+- SQL
+- Excel
+
+## Key KPIs
+- Total Sales
+- Total Profit
+- Profit Margin
+- Region-wise Sales
+- Monthly Trend Analysis
+
+## Key Insights
+- West region generated highest revenue
+- Seasonal sales trend observed in Q4
+- Certain product categories drive majority of profit
+
+## Dashboard Preview
+
+![Dashboard Preview](![sales_analysis_dashboard](https://github.com/user-attachments/assets/04b27830-b164-45ee-b723-732cb926b63f)
+)
+
