@@ -20,8 +20,4 @@ This project analyzes sales data to monitor revenue, profit, and regional perfor
 - Seasonal sales trend observed in Q4
 - Certain product categories drive majority of profit
 
-## Dashboard Preview
-
-![Dashboard Preview](![sales_analysis_dashboard](https://github.com/user-attachments/assets/04b27830-b164-45ee-b723-732cb926b63f)
-)
 
