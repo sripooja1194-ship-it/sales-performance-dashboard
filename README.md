@@ -22,5 +22,7 @@ This project analyzes sales data to monitor revenue, profit, and regional perfor
 
 ## Dashboard Preview
 
-![Dashboard]![sales_analysis_dashboard](https://github.com/user-attachments/assets/0e5d4752-f233-4469-8f35-a6606615bf77)
+![Dashboard]![sales_analysis_dashboard](<img width="1192" height="668" alt="Sales AnalysisDashboard" src="https://github.com/user-attachments/assets/d716fca9-9b19-481d-b1e7-ce2cc4170413" />
+<img width="1174" height="657" alt="Sales Analysis dashboard2" src="https://github.com/user-attachments/assets/e7b2863c-6e6d-4036-934c-80ce1adfe261" />
+)
 
